@@ -26,7 +26,7 @@
 
 <br/>
 
-<a href="https://github.com/Lexxby">
+<a href="https://github.com/Zhybuliou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zhybuliou&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhybuliou&theme=buefy&layout=compact" />
 </a>
